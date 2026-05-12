@@ -25,11 +25,8 @@ I’m a web developer and designer focused on building clean, modern, and profes
 ## Current goal
 Growing as a frontend developer and building a strong portfolio for clients and future opportunities.
 
-## Contact
-- Website: http://josephsguttersllc.com
-- Flyer <img width="400" height="680" alt="flyer-promo" src="https://github.com/user-attachments/assets/dd6fb2bc-e218-4a8e-b5fa-025e40935dfa" />
 
-- Email: rosoto1215@gmail.com
+- Email: rsoto1215@gmail.com
 
 <!--
 **rosa-soto77/rosa-soto77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
